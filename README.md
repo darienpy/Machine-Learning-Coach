@@ -63,4 +63,4 @@ Evaluation will focus on dataset review time, detection accuracy, and the useful
 
 ChatGPT and GitHub Copilot may assist with planning, coding, debugging, and documentation.
 
-Meaningful AI assistance and verification activities will be recorded in `docs/ai_work_log.md`.
+Meaningful AI assistance and verification activities will be recorded in `docs/work_log.md`.
